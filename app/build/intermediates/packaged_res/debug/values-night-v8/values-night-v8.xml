@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HL</string>
+    <string name="str_clan">Клан</string>
+    <string name="str_profile">Профиль</string>
+    <string name="str_tasks">Задания</string>
+    <string name="textview_name">Имя</string>
+    <string name="textview_score_all">Общее количество баллов:</string>
+    <string name="textview_score_for_day">Количество баллов за сегодня:</string>
+    <style name="Theme.HL_3" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
